@@ -1,0 +1,2 @@
+REQUIRENOT zlib.lib
+PRINT "zlib not found, installing"

@@ -1,0 +1,2 @@
+CHECKERR llvm-config
+PRINT "LLVM not found, installing"
