@@ -1,3 +1,0 @@
-ATTACH my-lib
-ATTACH zlib
-PRINT "Installation successful"
